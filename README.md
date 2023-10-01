@@ -20,5 +20,5 @@ Before running the app, ensure you have the following prerequisites:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/your-messenger-app.git
+   git clone https://github.com/IamaAB/Messenger_App_in_Kotlin.git
 
